@@ -105,6 +105,18 @@ background-color: white;
     margin: auto;
 }
 
+
+.projectdetails {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+
+.projecttxt {
+    font-size: 17px;
+}
+
 .column2 {
     flex: 1; /* Adjust the flex property as needed */
     padding: 60px 10px 0px 10px;
